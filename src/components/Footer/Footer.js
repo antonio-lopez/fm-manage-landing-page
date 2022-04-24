@@ -72,7 +72,8 @@ const Footer = () => {
           <form>
             <div className='flex space-x-3'>
               <input
-                type='text'
+                type='email'
+                required
                 className='flex-1 px-4 rounded-full focus:outline-none'
                 placeholder='Update in your inbox'
               />

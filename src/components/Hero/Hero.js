@@ -15,9 +15,10 @@ const Hero = () => {
             while keeping the larger team goals in view.
           </p>
           <div className='flex justify-center md:justify-start'>
+            {/* button */}
             <a
               href='/#'
-              className='p-3 px-6 pt-2 text-white bg-brightRed rounded-full baseline hover:bg-brightRedLight'
+              className='shadow-lg shadow-brightRedLight p-3 px-6 pt-2 text-white bg-brightRed rounded-full baseline hover:bg-brightRedLight'
             >
               Get Started
             </a>
