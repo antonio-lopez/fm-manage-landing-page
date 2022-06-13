@@ -41,7 +41,6 @@ Users should be able to:
 ### Built with
 
 - [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
 - [Tailwind CSS](https://tailwindcss.com/) - A utility-first CSS framework for rapidly building custom user interfaces.
 - [Flowbite](https://flowbite.com/) - Open-source component library built around Tailwind CSS
 
